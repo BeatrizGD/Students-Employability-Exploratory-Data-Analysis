@@ -1,0 +1,69 @@
+IDENT : Nº de identificación de la persona
+SEXO : Sexo
+EDAD : Grupo de edad (a 31-dic-2019)
+NACIO : Nacionalidad
+TITU : Titulación
+RAMA : Rama de conocimiento de la titulación
+AMBITO : Ámbito de estudio
+T_UNIV : Tipo de Universidad
+DISCA : Tiene discapacidad reconocida superior al 33%
+ESTUDIOS_PADRE : Nivel de formación máximo alcanzado por el padre
+ESTUDIOS_MADRE : Nivel de formación máximo alcanzado por la madre
+EST_B8 : Motivo principal por el que ha realizado sus estudios
+SAT1 : Si tuviese que empezar volvería a cursar estudios universitarios
+SAT2 : Si tuviese que empezar volvería a estudiar la misma titulación
+EST_B11_1 : Otros estudios: Grado / Diplomatura / Licenciatura o equivalente
+EST_B11_2 : Otros estudios: Máster universitario
+EST_B11_3 : Otros estudios: Doctorado universitario
+EST_B11_4 : Otros estudios: Estudios artísticos superiores (artes plásticas, diseño, música y danza, arte dramático o conservación y restauración de bienes culturales)
+EST_B11_5 : Otros estudios: Ciclos Formativos de grado superior (formación profesional, artes plásticas y diseño) o Enseñanzas Deportivas de Grado Superior
+EST_B11_6 : Otros estudios: Ciclos Formativos de grado medio (formación profesional, artes plásticas y diseño) o Enseñanzas Deportivas de Grado Medio
+EST_B12 : Nº de otros estudios: Grado / Diplomatura / Licenciatura o equivalente
+EST_B16 : Nº de otros estudios: Máster universitario
+EST_B24 : Nº de otros estudios: Ciclos Formativos de grado superior (formación profesional, artes plásticas y diseño) o Enseñanzas Deportivas de Grado Superior
+EST_B28 : Nº de otros estudios: Ciclos Formativos de grado medio (formación profesional, artes plásticas y diseño) o Enseñanzas Deportivas de Grado Medio
+IDI_MT1 : Idioma materno 1
+IDI_MT2 : Idioma materno 2
+IDIOMAS : Nº de idiomas que habla (sin contar los maternos)
+IDIOMA1 : Idioma 1
+NIV_ID1 : Nivel del idioma 1
+TIPOACREIDI1 : Nivel máximo acreditación para idioma 1
+IDIOMA2 : Idioma 2
+NIV_ID2 : Nivel del idioma 2
+TIPOACREIDI2 : Nivel máximo acreditación para idioma 2
+IDIOMA3 : Idioma 3
+NIV_ID3 : Nivel del idioma 3
+TIPOACREIDI3 : Nivel máximo acreditación para idioma 3
+TIC : Capacidad para usar el ordenador u otros dispositivos informáticos
+TRBPRN1 : Situación laboral actual
+TRBPRN2 : Situación de inactividad
+TRINAC_D4 : Inactivo: Ha buscado empleo alguna vez desde que se tituló
+TRINAC_D5 : Inactivo: Momento en el que empezó a buscar trabajo
+TRINAC_D6 : Inactivo: Tiempo que ha estado buscando trabajo
+TRPARA_D5 : En desempleo: Momento en el que empezó a buscar trabajo
+TRPARA_D6 : En desempleo: Tiempo que ha estado buscando trabajo
+TRAC_D9 : Actualmente trabaja en más de un empleo
+LUG_TRAB_PAIS : País de trabajo actual
+SIT_PRO : Situación profesional actual
+JORNADA : Tipo de jornada de trabajo actual
+TR_TAM : Número de personas trabajando en la empresa donde trabaja actualmente
+TR_SUELDO : Sueldo mensual neto actual
+TR_D19 : Nivel de formación más apropiado para realizar el trabajo actual
+TR_D21 : Se hace uso en el trabajo actual de los conocimientos y habilidades adquiridos en estos estudios
+HL_E1 : Ha realizado prácticas en empresas, instituciones o similares
+HL_E2 : Meses de prácticas
+HL_E3 : Ha tenido algún trabajo remunerado durante la realización de los estudios
+HL_E5 : Continuó en ese trabajo durante al menos 6 meses después de acabar estos estudios
+HATR_E11 : Tiempo transcurrido desde que finalizó estos estudios hasta que empezó a trabajar
+HATR_E12 : Momento en el que empezó a buscar trabajo
+P_CONTI : Continúa en su primer empleo
+PR_SIT_PR : Situación profesional de su primer empleo
+PR_JOR : Tipo de jornada de trabajo de su primer empleo
+PR_NIVEL : Nivel de formación más apropiado para realizar su primer empleo
+PR_AREA : Área de estudio más apropiada para su primer empleo
+PR_CONOC : Se hacía uso en su primer empleo de los conocimientos y habilidades adquiridos en estos estudios
+PR_SUELDO : Sueldo mensual neto del primer trabajo o de su empleo actual en el momento en el que empezó
+HATR_E27 : Cree que el título universitario le ha servido para encontrar trabajo
+NOTRAB_BUS : Ha buscado empleo alguna vez
+NOTRAB_BUSM : Momento en el que empezó a buscar trabajo
+NOTRAB_BUST : Tiempo que lleva buscando trabajo
