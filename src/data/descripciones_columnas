@@ -9,7 +9,6 @@ T_UNIV : Tipo de Universidad
 DISCA : Tiene discapacidad reconocida superior al 33%
 ESTUDIOS_PADRE : Nivel de formación máximo alcanzado por el padre
 ESTUDIOS_MADRE : Nivel de formación máximo alcanzado por la madre
-EST_B8 : Motivo principal por el que ha realizado sus estudios
 SAT1 : Si tuviese que empezar volvería a cursar estudios universitarios
 SAT2 : Si tuviese que empezar volvería a estudiar la misma titulación
 EST_B11_1 : Otros estudios: Grado / Diplomatura / Licenciatura o equivalente
@@ -31,9 +30,6 @@ TIPOACREIDI1 : Nivel máximo acreditación para idioma 1
 IDIOMA2 : Idioma 2
 NIV_ID2 : Nivel del idioma 2
 TIPOACREIDI2 : Nivel máximo acreditación para idioma 2
-IDIOMA3 : Idioma 3
-NIV_ID3 : Nivel del idioma 3
-TIPOACREIDI3 : Nivel máximo acreditación para idioma 3
 TIC : Capacidad para usar el ordenador u otros dispositivos informáticos
 TRBPRN1 : Situación laboral actual
 TRBPRN2 : Situación de inactividad
